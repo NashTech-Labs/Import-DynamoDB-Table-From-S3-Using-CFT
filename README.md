@@ -1,0 +1,1 @@
+Amazon DynamoDB recently released the ability to import your table data from Amazon Simple Storage Service (S3). Imports can be initiated from the AWS Management Console, the AWS Command Line Interface (AWS CLI), AWS SDK or Amazon Cloudformation which we are going to use in this template.
